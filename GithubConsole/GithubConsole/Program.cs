@@ -50,6 +50,8 @@ namespace GithubConsole
                     absoluteDistanceX--;
                 }
 
+
+                Console.WriteLine("Change for test branch merge");
             }
         }
     }
