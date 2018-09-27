@@ -52,6 +52,8 @@ namespace GithubConsole
 
 
                 Console.WriteLine("Change for test branch merge");
+
+                Console.WriteLine("Change for test git ext");
             }
         }
     }
