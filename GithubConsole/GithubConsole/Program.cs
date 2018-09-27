@@ -52,6 +52,7 @@ namespace GithubConsole
                 
                 Console.WriteLine("test for git");
                 Console.WriteLine("test for git stage");
+                Console.WriteLine("test for git diff");
             }
         }
     }
