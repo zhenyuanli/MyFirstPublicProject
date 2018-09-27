@@ -49,7 +49,9 @@ namespace GithubConsole
                     Console.WriteLine(directionX);
                     absoluteDistanceX--;
                 }
-
+                
+                Console.WriteLine("test for git");
+                Console.WriteLine("test for git stage");
             }
         }
     }
