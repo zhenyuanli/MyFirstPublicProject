@@ -53,6 +53,8 @@ namespace GithubConsole
                 Console.WriteLine("test for git");
                 Console.WriteLine("test for git stage");
                 Console.WriteLine("test for git diff");
+                Console.WriteLine("test for git stash");
+                Console.WriteLine("test for git stash");
             }
         }
     }
