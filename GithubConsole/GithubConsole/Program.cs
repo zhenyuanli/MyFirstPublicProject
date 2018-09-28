@@ -55,6 +55,9 @@ namespace GithubConsole
                 Console.WriteLine("test for git diff");
                 Console.WriteLine("test for git stash");
                 Console.WriteLine("test for git stash");
+                Console.WriteLine("test for git stash add");
+                Console.WriteLine("test for git stash add");
+                Console.WriteLine("test for git stash add");
             }
         }
     }
